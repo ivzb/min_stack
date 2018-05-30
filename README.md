@@ -1,0 +1,1 @@
+Min stack supports all the standard stack operations like push(), pop() and peek() and an additional operation min() which returns the minimum element from the stack. All these operations are O(1).
